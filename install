@@ -1,6 +1,7 @@
 git init
 git add installScript.sh
-git commit -m "
+git commit -m 
+
 #!/bin/bash
 
 # Check before locking $0, as the first user has exclusive lock privileges
@@ -2165,4 +2166,5 @@ fi
 
 echo $'\n'"The $g_operation operation completed successfully ($(date))"
 
-exit 0"
+exit 0
+
