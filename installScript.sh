@@ -1,7 +1,3 @@
-git init
-git add installScript.sh
-git commit -m 
-
 #!/bin/bash
 
 # Check before locking $0, as the first user has exclusive lock privileges
